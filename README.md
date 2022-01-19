@@ -1,2 +1,2 @@
 # Hash
-Dict with hash
+Dictionary with hashing
